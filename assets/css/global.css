@@ -1,0 +1,11 @@
+:root{
+    --poke-dark-blue: #162447;
+    --poke-blue: #1F4068;
+    --poke-black: #1B1B2F;
+    --poke-candy: #E43F5A;
+}
+
+h1 {
+    color: var(--poke-candy);
+    background-color: var(--poke-blue);
+}
